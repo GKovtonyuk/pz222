@@ -1,0 +1,8 @@
+D:\inform\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\inform\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\inform\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\inform\Project1\Project1\x64\Debug\Project1.exe
+D:\Users\kovtonyuk\Downloads\Telegram Desktop\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Users\kovtonyuk\Downloads\Telegram Desktop\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\Users\kovtonyuk\Downloads\Telegram Desktop\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\Users\kovtonyuk\Downloads\Telegram Desktop\Project1\Project1\x64\Debug\Project1.exe
